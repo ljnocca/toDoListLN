@@ -1,0 +1,43 @@
+* {
+	font-family: Helvetica, Arial, sans-serif;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-size: 100px;
+	text-align: center;
+	color: #6600ff;
+}
+
+li {
+    background: #DCEAB2;
+    border: 3px solid black;
+    margin: 10px auto;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    list-style: none;
+}
+
+html{
+	background: #75B9BE
+}
+
+#submit{
+	background-color: #A8CCC9;
+	margin: 0 auto;
+	display: block;
+}
+
+button{
+	background-color: #d0645d;
+	margin: 0 auto;
+	display: block;
+}
+
+input{
+	margin: 0 auto;
+	width: 150px;
+	display: block;
+}
+
